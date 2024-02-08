@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4547344.css",
+    "main.js": "/static/js/main.98c0c471.js",
+    "static/js/592.3a2fe126.chunk.js": "/static/js/592.3a2fe126.chunk.js",
+    "static/media/h_l.png": "/static/media/h_l.4f183eaccb67d09ba14b.png",
+    "static/media/b_w_s.png": "/static/media/b_w_s.4f75624604e514029da4.png",
+    "static/media/b_w_h_w.jpg": "/static/media/b_w_h_w.bea49001873e9b156a72.jpg",
+    "static/media/unilever.png": "/static/media/unilever.c72d6dd23cc6b24a2e15.png",
+    "static/media/delphi-logo-2.png": "/static/media/delphi-logo-2.d9f626a50c1c6b8cdd24.png",
+    "index.html": "/index.html",
+    "main.b4547344.css.map": "/static/css/main.b4547344.css.map",
+    "main.98c0c471.js.map": "/static/js/main.98c0c471.js.map",
+    "592.3a2fe126.chunk.js.map": "/static/js/592.3a2fe126.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4547344.css",
+    "static/js/main.98c0c471.js"
+  ]
+}
