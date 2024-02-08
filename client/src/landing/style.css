@@ -1,0 +1,50 @@
+.header_log {
+  width: 15% !important;
+}
+.header_log_2 {
+  width: 65% !important;
+}
+
+.nav_header_bg {
+  background-color: #1f36c7 !important;
+  color: white !important;
+}
+
+.category_repeat {
+  display: flex !important;
+  justify-content: space-evenly !important;
+}
+
+.left_border {
+  border-left: 1px solid white !important;
+}
+
+.r_2m {
+  margin-right: 2px !important;
+}
+
+.l_2m {
+  margin-left: 2px !important;
+}
+
+.w_color{
+  color: white !important;
+}
+
+.cat_img{
+  height: 280px !important;
+  width: 210px !important;
+}
+
+.cat_text{
+  width: 230px !important;
+}
+
+.cat_card{
+  height: 280px !important;
+  width: 210px !important;
+}
+
+.m_l50{
+  margin-left: 55px !important;
+}
